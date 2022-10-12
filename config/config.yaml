@@ -1,0 +1,15 @@
+IPAddr:
+  Addr: 127.0.0.1 # IP地址
+  Port: 8888      # 端口
+
+Postgresql:
+  Host: 49.234.222.178
+  DBPort: 5432
+  DBName: DTCloud15
+  UserName: dtcloud
+  Password: 123456
+
+RemoteAddr:   # websocket服务的地址
+  Addr: 127.0.0.1
+  Port: 32770
+  URL: data_iot
